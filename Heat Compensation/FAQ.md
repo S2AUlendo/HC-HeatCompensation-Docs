@@ -3,7 +3,7 @@ layout: default
 title: FAQ
 description: "Frequently asked questions"
 parent: Ulendo Heat Compensation
-nav_order: 4
+nav_order: 5
 ---
 
 # Frequently Asked Questions 

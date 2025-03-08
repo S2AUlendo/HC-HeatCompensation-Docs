@@ -3,7 +3,7 @@ layout: default
 title: Troubleshooting  
 description: "Troubleshooting common issues with the Ulendo HC app."  
 parent: Ulendo Heat Compensation
-nav_order: 3 
+nav_order: 4 
 ---  
 
 # How to Identify and Troubleshoot Common Faults  

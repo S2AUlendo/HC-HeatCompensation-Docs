@@ -10,21 +10,20 @@ nav_order: 3
 
 ## 1. Upload a File  
 Click the **"Choose File"** button to upload a CLI file for processing.
-
+- The file should be a .cli file type that has been previously generated using a slicer
 ![Material Selection.](https://s2aulendo.github.io/HC-HeatCompensation-Docs/assets/images/select-input.png)
-
 
 ## 2. Select Material and Printer  
 - Choose the appropriate **material type** and **laser printer configuration** from the dropdown menus.
 - Users can select and use custom parameters for their own materials or machines.
 
-
+- Select the material that best matches the powder to be used during the printing process. 
 ![Material Selection.](https://s2aulendo.github.io/HC-HeatCompensation-Docs/assets/images/material-selections-2.png)
 
-
+- Users can manually edit the parameters to match the information provided by the powder manufacturer. 
 ![Material Parameters.](https://s2aulendo.github.io/HC-HeatCompensation-Docs/assets/images/show-material-params.png)
 
-
+ - Select the laser scanning speed, and laser power for the material to be used. If different speeds and power settings are used for different parts of the build, enter the configuration that best represents the average speed. 
 ![Machine Parameters.](https://s2aulendo.github.io/HC-HeatCompensation-Docs/assets/images/hc-machines-params.png)
 
 
@@ -40,17 +39,14 @@ Click the **"Optimize"** button to reorder the hatch patterns for even heat dist
 
 
 ## 5. View Processing History  
-The **"History"** section lists previously processed files. Click a file name to quickly access it.
+The **"History"** section lists any files that have been successfully optimized with the Ulendo HC application. To view the results of the optimization, click a file name to quickly access it.
 
 ![Optimization History.](https://s2aulendo.github.io/HC-HeatCompensation-Docs/assets/images/opt-history.png)
-
 
 ## 6. Compare Results  
-After processing, a **side-by-side comparison** of the original and optimized CLI files will be displayed. Use the **slider** to navigate through layers and examine the hatch patterns.
+After processing, a **side-by-side comparison** of the original and optimized CLI files will be displayed. 
 
-
-![Optimization History.](https://s2aulendo.github.io/HC-HeatCompensation-Docs/assets/images/opt-history.png)
-
+Use the **slider** to navigate through layers and examine the hatch patterns.
 
 ![Analysis Screen.](https://s2aulendo.github.io/HC-HeatCompensation-Docs/assets/images/analysis-comparison.png)
 
