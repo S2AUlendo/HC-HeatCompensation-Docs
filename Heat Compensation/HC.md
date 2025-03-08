@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ulendo HC Desktop
+title: Ulendo Heat Compensation
 description: "An overview of the Ulendo HC Desktop Application"
 has_children: true
 nav_order: 2
@@ -11,7 +11,7 @@ Ulendo HC Desktop is a powerful desktop application designed to optimize CLI fil
 
 The software supports various LPBF printer parameters and machine profiles, making it adaptable to different printer models and configurations. By intelligently reordering the hatch patterns within each layer of the CLI file, the HC algorithm optimizes for heat distribution across the build surface. This optimization minimizes the risk of part deformation caused by uneven heating, leading to higher-quality prints with improved mechanical properties.
 
-Whether you're working with standard or custom machine settings, HC - Materialise offers flexibility and precision in optimizing your print jobs. The application is ideal for manufacturers, researchers, and engineers looking to enhance their LPBF processes and achieve more reliable, consistent results from their LPBF machines.
+Whether you're working with standard or custom machine settings, the HC desktop application offers flexibility and precision in optimizing your print jobs. The application is ideal for manufacturers, researchers, and engineers looking to enhance their LPBF processes and achieve more reliable, consistent results from their LPBF machines.
 
 ### HC algorithm parameters
 The software can be used with the default parameters or additional parameters can be set or passed into the software. 

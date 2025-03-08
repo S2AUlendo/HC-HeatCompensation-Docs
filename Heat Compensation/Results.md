@@ -2,8 +2,8 @@
 layout: default
 title: Results
 description: "A Result overview of the Ulendo HC Desktop Application."
-parent: Ulendo HC Desktop
-nav_order: 4
+parent: Ulendo Heat Compensation
+nav_order: 2
 ---
 
 # Ulendo HC Results
@@ -12,7 +12,6 @@ The results section provides a side-by-side comparison of the pre-optimized and 
 
 ## Understanding the results
 The optimized sequence shown in the results demonstrates how the sequence of the fragments within a layer patterns have been reordered to minimize localized heating and ensure uniform heat distribution across the layer. Research has shown that this optimization significantly enhances the overall print quality and reduces deformation risks, providing a reliable foundation for high-precision manufacturing.
-
 
 ## Sequence Visualization  
 By default, the app displays only the optimized sequence of the part fragments. For performance reasons, only the bounding box of the regions, and the order in which they are scanned.

@@ -2,7 +2,7 @@
 layout: default
 title: Installation Overview
 description: "Installation Overview for Ulendo HC Desktop Application"
-parent: Ulendo HC Desktop
+parent: Ulendo Heat Compensation
 nav_order: 1
 ---
 

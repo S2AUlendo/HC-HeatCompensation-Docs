@@ -2,7 +2,7 @@
 layout: default
 title: User Manual
 description: "How to use Ulendo HC Desktop"
-parent: Ulendo HC Desktop
+parent: Ulendo Heat Compensation
 nav_order: 3
 ---
 

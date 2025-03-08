@@ -2,7 +2,7 @@
 layout: default
 title: FAQ
 description: "Frequently asked questions"
-parent: Ulendo HC Desktop
+parent: Ulendo Heat Compensation
 nav_order: 4
 ---
 
