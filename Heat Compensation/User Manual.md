@@ -21,10 +21,11 @@ Click the **"Choose File"** button to upload a CLI file for processing.
 ![Material Selection.](https://s2aulendo.github.io/HC-HeatCompensation-Docs/assets/images/material-selections-2.png)
 
 - Users can manually edit the parameters to match the information provided by the powder manufacturer. 
-![Material Parameters.](https://s2aulendo.github.io/HC-HeatCompensation-Docs/assets/images/show-material-params.png)
+![Material Parameters.](https://s2aulendo.github.io/HC-HeatCompensation-Docs/assets/images/show-material-params.png | width=150)
 
  - Select the laser scanning speed, and laser power for the material to be used. If different speeds and power settings are used for different parts of the build, enter the configuration that best represents the average speed. 
-![Machine Parameters.](https://s2aulendo.github.io/HC-HeatCompensation-Docs/assets/images/hc-machines-params.png)
+
+![Machine Parameters.](https://s2aulendo.github.io/HC-HeatCompensation-Docs/assets/images/hc-machines-params.png | width=150)
 
 
 ## 3. View Before Optimization  
@@ -35,7 +36,7 @@ Click the **"View"** button to inspect the original CLI file before processing.
 ## 4. Optimize the File  
 Click the **"Optimize"** button to reorder the hatch patterns for even heat distribution.
 
-![Optimizing File.](https://s2aulendo.github.io/HC-HeatCompensation-Docs/assets/images/hc-processing.png)
+![Optimizing File.](https://s2aulendo.github.io/HC-HeatCompensation-Docs/assets/images/hc-processing.png | width=150)
 
 
 ## 5. View Processing History  
