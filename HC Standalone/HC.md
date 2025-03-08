@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ulendo HC Desktop
-description: "An overview of the Autodesk Ulendo HC."
+description: "An overview of the Ulendo HC Desktop Application"
 has_children: true
 nav_order: 2
 ---
@@ -24,9 +24,8 @@ In order of the usage the available parameters to configure the module, include:
     5.  Convection coefficient [W/m^2K]        
     6.  Laser power [W]
 
-<div style="display: flex; gap: 10px;">
-  <img src="../assets/images/ulendo-hc-app-flow.png" alt="HC Flow Chart" width="400">
-</div>
+
+![Optimization History.](https://s2aulendo.github.io/HC-HeatCompensation-Docs/assets/images/ulendo-hc-app-flow.png)
 
 > {: .note }
-  Fragments must be cut and hatched before passing the collection to the UlendoHC plugin.
+  The input CLI file should contain both polylines and hatchlines before being run in the HC application.

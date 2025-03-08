@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Results
-description: "A Result overview of the Dyndrite LPBF Integration."
-parent: Autodesk Ulendo HC
+description: "A Result overview of the Ulendo HC Desktop Application."
+parent: Ulendo HC Desktop
 nav_order: 4
 ---
 

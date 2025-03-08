@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Installation Overview
-description: "Installation Overview for Autodesk Ulendo HC."
+description: "Installation Overview for Ulendo HC Desktop Application"
 parent: Ulendo HC Desktop
 nav_order: 1
 ---
