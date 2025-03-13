@@ -44,7 +44,7 @@ Click the **"Optimize"** button to reorder the hatch patterns for even heat dist
 ## 5. View Processing History  
 The **"History"** section lists any files that have been successfully optimized with the Ulendo HC application. To view the results of the optimization, click a file name to quickly access it.
 
-![Optimization History.](https://s2aulendo.github.io/HC-HeatCompensation-Docs/assets/images/opt-history.png | width=100)
+![Optimization History.](https://s2aulendo.github.io/HC-HeatCompensation-Docs/assets/images/opt-history.png)
 
 ## 6. Compare Results  
 After processing, a **side-by-side comparison** of the original and optimized CLI files will be displayed. 
