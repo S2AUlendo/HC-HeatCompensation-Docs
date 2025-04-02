@@ -7,7 +7,7 @@ nav_order: 2
 ---
 
 # Installation Overview
-Ulendo provides a graphical installer for Windows platforms to facilitate the installation of Autodesk Ulendo HC.
+A Windows-based graphical installer is used to install Ulendo HC.
 
 ## Download the Application
 ### From Our Website
@@ -24,8 +24,12 @@ Ulendo provides a graphical installer for Windows platforms to facilitate the in
 
 ## Install on Windows
 1. Run the `ulendohcdesktop_setup.exe` installer and follow the on-screen instructions.
-2. Choose an installation directory and take note of it for future reference.
-3. For clean install, select the **Full clean installation** option. To update, select the **Update existing installation** option.
-4. Select the **Create Desktop Shortcut** option during installation.
-5. After installation, the installation folder will contain `ulendohc_desktop.exe`, a self-contained Python application that includes the Python runtime and all required dependencies for the core of the SmartScan application. 
-6. You can launch the app from the Desktop shortcut or by running the `ulendohc_desktop.exe` file directly.
+   * Click YES to allow the program to be installed.
+2. To accept the End User License Agreement (EULA), click the box that says I accept the agreement, then click NEXT. For a clean install (deletes all previously optimized files and any custom materials or machines; reverts any edits made to the pre-loaded materials back to the original values), select the **Full clean installation** option. To update an existing installation, select the **Update existing installation** option (retains any customer materials or machines and any edits made to pre-loaded materials). Select the **Create Desktop Shortcut** option during installation. (default)
+3. Click INSTALL then FINISH.
+4. After installation, the download folder will contain ulendohc_desktop.exe, a self-contained Python application that includes the Python runtime and all required dependencies for the core of the application.
+   * By default, files will be stored as follows:
+     * the application - Program Files/UlendoHCTool
+     * any file you upload for optimization - Program Files/UlendoHCTool/data
+     * optimized files - Program Files/UlendoHCTool/output. (You will have an opportunity to change the directory for optimized files within the application.)
+5. Launch the app from the Desktop shortcut or through the Windows Start button. 

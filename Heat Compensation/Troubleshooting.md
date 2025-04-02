@@ -26,9 +26,10 @@ The UlendoHC plugin requires a license key for its first-time use and operation.
 
 ### Key Points About the License Key:  
 - After entering the license key during the first run, it will be securely encrypted and stored on the computer.  
-- Subsequent runs of the app will automatically locate the license key, so re-entering it is unnecessary.  
+- Subsequent runs of the app will automatically locate the license key, so re-entering it is unnecessary. 
+- The license key will allow the user to process files of parts less than the maximum build volume of the license selected. For 30-day trials, the application will only process files for parts that are less than 2,000 cu cm. 
 
 If your license key has expired, please purchase a new key, or contact your Ulendo account manager for assistance.  
 
 ## Need More Help?  
-If you need further assistance beyond the troubleshooting steps outlined here, please contact us at **info@ulendo.io** for advanced support.  
+If you need further assistance beyond the troubleshooting steps outlined here, please contact us at **support@ulendo.io** for advanced support.  

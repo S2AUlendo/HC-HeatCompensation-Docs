@@ -22,7 +22,6 @@ Users are recommended to have a machine that support 32-cores and 64 GB of RAM a
 ## Does Ulendo HC require GPUs to run
 No, Ulendo HC only runs on the CPU.
 
-
 ## Does Ulendo HC support multi-laser systems
 No, this standalone application does not have support for multi-laser systems, ask us about our other commercial slicer integrations. Multi-laser support can be had through one of our commercial slicer plugins. 
 

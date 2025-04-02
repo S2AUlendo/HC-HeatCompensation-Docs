@@ -10,10 +10,10 @@ nav_order: 4
 
 ## Sequence Visualizer
 
-The results section provides a side-by-side comparison of the pre-optimized and post-optimized hatch sequences for each layer of the CLI file. This allows users to visualize how the sequence has been reordered to promote more even heat distribution, reducing the likelihood of deformities in printed parts.
+The results section provides a side-by-side comparison of the pre-optimized and post-optimized hatch sequences for each layer of the file. This allows users to visualize how the sequence has been reordered to promote more even heat distribution, reducing the likelihood of deformities in printed parts.
 
 ### Understanding the Results
-The optimized sequence shown in the results demonstrates how fragment patterns within a layer have been reordered to minimize localized heating and ensure uniform heat distribution across the layer. Research has shown that this optimization significantly enhances overall print quality, reduces deformation risks, and improves part consistency, making it ideal for high-precision manufacturing.
+The optimized sequence shown in the results demonstrates how fragment patterns within a layer have been reordered to minimize localized heating and ensure uniform heat distribution across the layer. Research has shown that this optimization significantly enhances overall print quality, reduces deformation risks and improves part consistency, making it ideal for high-precision manufacturing.
 
 ### Sequence Visualization  
 By default, the application displays only the optimized sequence of the part fragments. For performance reasons, only the bounding boxes of the regions and their scan order are shown. At the top of the chart, users can find a table displaying the material and machine parameters selected for optimization.

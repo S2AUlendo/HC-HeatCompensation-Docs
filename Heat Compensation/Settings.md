@@ -10,8 +10,10 @@ nav_order: 5
 
 The **Settings Menu** allows users to configure performance and optimization parameters to balance speed, accuracy, and resource usage. Users can access the settings by navigating to **File > Settings** in the window menu.
 
+By default, optimized files are stored in Program Files/UlendoHCTool/output. Use the **File > Change Output** Directory option to change the location of these optimized files.
+
 ## Processing Modes  
-Users can choose from four processing modes that control how many CPU threads the app will allocate to optimization tasks:
+Users can choose from four processing modes that control how many CPU threads the app will allocate to optimization tasks. These modes impact the computation time and overall performance, allowing users to customize their experience based on system capabilities:
 
 - **Reserved** - Uses minimal CPU resources, preserving system performance for other tasks.
 - **Balanced** - Allocates a moderate number of CPU threads for optimization while keeping system responsiveness.
